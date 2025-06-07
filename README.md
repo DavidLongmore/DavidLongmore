@@ -1,10 +1,11 @@
-Hi, *I’m @DavidLongmore*, I am a student currently studying Software Development with the aim to one day work as a full time software developer 
+Hi, *I’m @DavidLongmore*, I have a certificate in Software Development with the aim to one day work as a full time software developer 
 with an eye on expanding my knowledge to become a game level designer!
 
-*I’m currently learning and have mastered basic:*
+*I have mastered basic:*
 * HTML
 * JavaScript
 * CSS including Tailwind Framework
+* React
 
 *Projects:*
 * https://github.com/DavidLongmore/Portfolio_Piece_David_Longmore_DAVLON476_PTO2401_A_Coach_Kevin/blob/main/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/README.md
